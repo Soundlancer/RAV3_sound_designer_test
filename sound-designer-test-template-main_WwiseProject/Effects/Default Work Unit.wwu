@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CD09737F-20E5-4B2E-A289-4DCBC18D679E}" SchemaVersion="97">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{CD09737F-20E5-4B2E-A289-4DCBC18D679E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="New_Auro_Headphone" ID="{9AB4ADAB-EC34-414F-9CAE-4C1B7299ED46}" PluginName="Auro Headphone" CompanyID="263" PluginID="1100" PluginType="3">
+					<PropertyList>
+						<Property Name="Reverb_alpha" Type="Real32" Value="0.09375"/>
+						<Property Name="Reverb_fcut" Type="Real32" Value="500"/>
+						<Property Name="Reverb_predelay" Type="Real32" Value="0"/>
+						<Property Name="Reverb_tr60" Type="Real32" Value="0.5"/>
+					</PropertyList>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

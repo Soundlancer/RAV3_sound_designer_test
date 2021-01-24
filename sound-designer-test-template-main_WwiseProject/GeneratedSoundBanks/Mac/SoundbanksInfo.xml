@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonic_BUS\Reverb"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="4056684167" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2199192635" Name="amb_01" ObjectPath="\Events\Default Work Unit\Ambient\amb_01" MaxAttenuation="70.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="118715775" Language="SFX">
+							<ShortName>Ambient\amb_01.wav</ShortName>
+							<Path>SFX\Ambient\amb_01_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2199192632" Name="amb_02" ObjectPath="\Events\Default Work Unit\Ambient\amb_02" MaxAttenuation="70.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="346644846" Language="SFX">
+							<ShortName>Ambient\amb_02.wav</ShortName>
+							<Path>SFX\Ambient\amb_02_0FF26878.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2199192638" Name="amb_04" ObjectPath="\Events\Default Work Unit\Ambient\amb_04" MaxAttenuation="70.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="775570537" Language="SFX">
+							<ShortName>Ambient\amb_04.wav</ShortName>
+							<Path>SFX\Ambient\amb_04_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\Character\footsteps" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="28102530" Language="SFX">
+							<ShortName>Character\cloth_04.wav</ShortName>
+							<Path>SFX\Character\cloth_04_10C4C929.wem</Path>
+						</File>
+						<File Id="62888885" Language="SFX">
+							<ShortName>Character\cloth_03.wav</ShortName>
+							<Path>SFX\Character\cloth_03_10C4C929.wem</Path>
+						</File>
+						<File Id="118823475" Language="SFX">
+							<ShortName>Character\cloth_05.wav</ShortName>
+							<Path>SFX\Character\cloth_05_10C4C929.wem</Path>
+						</File>
+						<File Id="127267645" Language="SFX">
+							<ShortName>Character\ftstp_tile_05.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_05_10C4C929.wem</Path>
+						</File>
+						<File Id="205812953" Language="SFX">
+							<ShortName>Character\ftstp_tile_04.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_04_10C4C929.wem</Path>
+						</File>
+						<File Id="309941175" Language="SFX">
+							<ShortName>Character\cloth_01.wav</ShortName>
+							<Path>SFX\Character\cloth_01_10C4C929.wem</Path>
+						</File>
+						<File Id="377448038" Language="SFX">
+							<ShortName>Character\ftstp_tile_01.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_01_10C4C929.wem</Path>
+						</File>
+						<File Id="565294285" Language="SFX">
+							<ShortName>Character\ftstp_tile_03.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_03_10C4C929.wem</Path>
+						</File>
+						<File Id="710048876" Language="SFX">
+							<ShortName>Character\cloth_02.wav</ShortName>
+							<Path>SFX\Character\cloth_02_10C4C929.wem</Path>
+						</File>
+						<File Id="1016714071" Language="SFX">
+							<ShortName>Character\ftstp_tile_06.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_06_10C4C929.wem</Path>
+						</File>
+						<File Id="1060954615" Language="SFX">
+							<ShortName>Character\ftstp_tile_02.wav</ShortName>
+							<Path>SFX\Character\ftstp_tile_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2092055118" Name="garbage" ObjectPath="\Events\Default Work Unit\Random_SFX\garbage" MaxAttenuation="15.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="232898209" Language="SFX">
+							<ShortName>SFX\garbage_02.wav</ShortName>
+							<Path>SFX\SFX\garbage_02_10C4C929.wem</Path>
+						</File>
+						<File Id="304735755" Language="SFX">
+							<ShortName>SFX\garbage_03.wav</ShortName>
+							<Path>SFX\SFX\garbage_03_10C4C929.wem</Path>
+						</File>
+						<File Id="896976130" Language="SFX">
+							<ShortName>SFX\garbage_01.wav</ShortName>
+							<Path>SFX\SFX\garbage_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3833651337" Name="jump" ObjectPath="\Events\Default Work Unit\Character\jump" DurationType="OneShot" DurationMin="0.433357" DurationMax="0.690696">
+					<IncludedMemoryFiles>
+						<File Id="210222157" Language="SFX">
+							<ShortName>Character\jump_02.wav</ShortName>
+							<Path>SFX\Character\jump_02_10C4C929.wem</Path>
+						</File>
+						<File Id="339070640" Language="SFX">
+							<ShortName>Character\cloth_jmp_01.wav</ShortName>
+							<Path>SFX\Character\cloth_jmp_01_10C4C929.wem</Path>
+						</File>
+						<File Id="398444723" Language="SFX">
+							<ShortName>Character\cloth_jmp_03.wav</ShortName>
+							<Path>SFX\Character\cloth_jmp_03_10C4C929.wem</Path>
+						</File>
+						<File Id="451124687" Language="SFX">
+							<ShortName>Character\cloth_jmp_02.wav</ShortName>
+							<Path>SFX\Character\cloth_jmp_02_10C4C929.wem</Path>
+						</File>
+						<File Id="683829960" Language="SFX">
+							<ShortName>Character\jump_01.wav</ShortName>
+							<Path>SFX\Character\jump_01_10C4C929.wem</Path>
+						</File>
+						<File Id="937725726" Language="SFX">
+							<ShortName>Character\jump_03.wav</ShortName>
+							<Path>SFX\Character\jump_03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="657744959" Name="lamp" ObjectPath="\Events\Default Work Unit\Random_SFX\lamp" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="143520436" Language="SFX">
+							<ShortName>SFX\elect_02.wav</ShortName>
+							<Path>SFX\SFX\elect_02_10C4C929.wem</Path>
+						</File>
+						<File Id="346901323" Language="SFX">
+							<ShortName>SFX\elect_03.wav</ShortName>
+							<Path>SFX\SFX\elect_03_10C4C929.wem</Path>
+						</File>
+						<File Id="369400978" Language="SFX">
+							<ShortName>SFX\elect_01.wav</ShortName>
+							<Path>SFX\SFX\elect_01_10C4C929.wem</Path>
+						</File>
+						<File Id="972316299" Language="SFX">
+							<ShortName>SFX\elect_04.wav</ShortName>
+							<Path>SFX\SFX\elect_04_10C4C929.wem</Path>
+						</File>
+						<File Id="1062059018" Language="SFX">
+							<ShortName>SFX\lamp.wav</ShortName>
+							<Path>SFX\SFX\lamp_912362A5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4135178015" Name="lamp2" ObjectPath="\Events\Default Work Unit\Random_SFX\lamp2" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="705538583" Language="SFX">
+							<ShortName>SFX\elect_05.wav</ShortName>
+							<Path>SFX\SFX\elect_05_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1062059018" Language="SFX">
+							<ShortName>SFX\lamp.wav</ShortName>
+							<Path>SFX\SFX\lamp_912362A5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3991942870" Name="music" ObjectPath="\Events\Default Work Unit\Random_SFX\music" MaxAttenuation="15.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="560433556" Language="SFX">
+							<ShortName>SFX\music.wav</ShortName>
+							<Path>SFX\SFX\music_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2043403999" Name="rain" ObjectPath="\Events\Default Work Unit\Ambient\rain" MaxAttenuation="17.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="217085262" Language="SFX">
+							<ShortName>Ambient\rain.wav</ShortName>
+							<Path>SFX\Ambient\rain_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3375731105" Name="talking" ObjectPath="\Events\Default Work Unit\Random_SFX\talking" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="822115337" Language="SFX">
+							<ShortName>SFX\people_talking.wav</ShortName>
+							<Path>SFX\SFX\people_talking_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1631142046" Name="RTPC_Occlusion_music" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_music"/>
+				<GameParameter Id="1653615049" Name="RTPC_Occlusion_amb4" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_amb4"/>
+				<GameParameter Id="1653615052" Name="RTPC_Occlusion_amb1" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_amb1"/>
+				<GameParameter Id="1664992182" Name="RTPC_Occlusion" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion"/>
+				<GameParameter Id="2469836583" Name="RTPC_Occlusion_lamp2" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_lamp2"/>
+				<GameParameter Id="3066961559" Name="RTPC_Occlusion_rain" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_rain"/>
+				<GameParameter Id="4030404528" Name="RTPC_Occlusion2" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion2"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

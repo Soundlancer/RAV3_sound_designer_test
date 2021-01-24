@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{68BABDA4-806A-4A0D-9CF0-16E2C1D84DCD}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{68BABDA4-806A-4A0D-9CF0-16E2C1D84DCD}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Ambient" ID="{2A8EAFE7-AA63-42D7-95FD-B2460D386399}" ShortID="775549937">
+					<ChildrenList>
+						<Event Name="amb_01" ID="{55E5AC96-BD29-457A-B930-109B50FD6476}">
+							<ChildrenList>
+								<Action Name="" ID="{D709980F-10FD-466C-A404-CFE3CC333205}" ShortID="765913520">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="amb_01" ID="{1D53F143-4F93-41EE-ABB4-CE790E4ED6DD}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="amb_02" ID="{39DC26C8-F9B6-4CE0-AC61-39A806005C38}">
+							<ChildrenList>
+								<Action Name="" ID="{73067A4F-A692-43DB-B745-967122ECB67F}" ShortID="551610072">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="amb_02" ID="{569518E6-B5BF-4D42-800C-EEC99F64CD0C}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="amb_04" ID="{AB7345E2-FE55-468C-91E9-D61378912941}">
+							<ChildrenList>
+								<Action Name="" ID="{2F282A41-268A-4901-B011-18EC7D0C80A1}" ShortID="343922262">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="amb_04" ID="{0CB075ED-57EC-48CF-A74C-E0AB4BC83023}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="rain" ID="{BABEAE94-FBCC-4DA3-8289-EDBE5C9EF370}">
+							<ChildrenList>
+								<Action Name="" ID="{2C2E341E-7A4B-4807-AD2F-82CF8918BB77}" ShortID="753489099">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="rain" ID="{96CE4964-1B3A-4FFE-A764-FF61ECF47C58}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Character" ID="{3EB5050F-30D9-4A8A-90A9-980FF5FD8F21}" ShortID="192871611">
+					<ChildrenList>
+						<Event Name="footsteps" ID="{92165861-F1FE-4CB7-9197-BEE3B6224690}">
+							<ChildrenList>
+								<Action Name="" ID="{E8B0D7F4-373D-4E0F-87E6-733F2DD1113F}" ShortID="831234539">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="footsteps" ID="{64150038-A8E6-45CB-A3B2-6F2D10AE5D07}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="jump" ID="{C0F93289-0C9D-41A1-AEE4-9632A255D002}">
+							<ChildrenList>
+								<Action Name="" ID="{E8B18A3F-BDD8-4A2B-A459-32F43EBE8886}" ShortID="559331564">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="jump" ID="{E1B71884-345A-4679-A61F-333337B9EC8C}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Random_SFX" ID="{90C7C485-E18D-4546-B93C-C5CC17DE8CE6}" ShortID="111204356">
+					<ChildrenList>
+						<Event Name="talking" ID="{E5FA0D4D-824C-405C-8E42-3401926FAF95}">
+							<ChildrenList>
+								<Action Name="" ID="{7E77FD5A-52F9-4E00-B123-710453D7DA03}" ShortID="57264503">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="people_talking" ID="{B5D562CE-09C1-49D1-80B5-70635AF9ADEF}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lamp" ID="{0E36F373-CEB2-4638-BC34-56418743D19C}">
+							<ChildrenList>
+								<Action Name="" ID="{97F089FD-222A-4654-B7C5-15605F890819}" ShortID="204823927">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="lamp" ID="{DC640C89-3FB6-4085-BC4A-C29251096EA6}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="lamp2" ID="{FC427D63-768E-470F-A188-DB43EDD7D8B8}">
+							<ChildrenList>
+								<Action Name="" ID="{BAD6DAF8-7224-4ED8-81D4-BD9FB311AD08}" ShortID="770203602">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="lamp2" ID="{572FFD5B-CDDB-416F-91F8-2ADB59EC829F}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="music" ID="{F0438D93-1743-4C73-87C9-05AEFCD91425}">
+							<ChildrenList>
+								<Action Name="" ID="{45AD7D8E-2963-45F5-AAED-887B3644B6AE}" ShortID="162525867">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="music" ID="{CFB02076-54A4-430F-AA79-43778DA0F98A}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="garbage" ID="{8637C58D-89C1-43B4-9C77-7F55434B5151}">
+							<ChildrenList>
+								<Action Name="" ID="{D96F0985-0878-4C8C-974E-C4042F93A1A4}" ShortID="730398013">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="garbage" ID="{49A805DE-8D3C-4E41-9A54-4DC8BC00DDD6}" WorkUnitID="{78EC68D6-C8A4-449B-9D46-A3643A14C68B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

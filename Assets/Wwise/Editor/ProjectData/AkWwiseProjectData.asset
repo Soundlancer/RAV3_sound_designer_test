@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f120f0024e25324898075507952a5a9, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 8f963ea95831024a88dc423223215b0e
+    GuidInternal: 
+    m_lastTime: -8585903435852049208
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 7d5831c248a03c4382201af250bd4bf7
+    GuidInternal: 
+    m_lastTime: -8585902620020096239
+    List:
+    - name: 3D
+      guid: 9bea3ad72790be499c68496bd133d1e0
+      id: 511093792
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: 3D
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\3D
+    - name: Ambient
+      guid: a4603d2384aecc499c640c084c3ac837
+      id: 77978275
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: 3D
+        ObjectType: 2
+      - ElementName: Ambient
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\3D\Ambient
+    - name: Character
+      guid: 493404587bba1b49ab2242721eb5a23c
+      id: 436743010
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: 3D
+        ObjectType: 2
+      - ElementName: Character
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\3D\Character
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: Reverb
+      guid: e3d39bef43ce4944b9f4eaaa52b4211f
+      id: 348963605
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: 3D
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\3D\Reverb
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 542328b26ffcc84f8bade551abc41c1e
+    GuidInternal: 
+    m_lastTime: -8585902803967877662
+    List:
+    - name: Master
+      guid: 34d89967e2c5dc48ba9517850b76b7b0
+      id: 4056684167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 7
+      Path: Default Work Unit\Master
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: a4bdba686a800d4a9cf016e2c1d84dcd
+    GuidInternal: 
+    m_lastTime: -8585902756360311863
+    List:
+    - name: Ambient
+      guid: e7af8e2a63aad74295fdb2460d386399
+      id: 77978275
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambient
+        ObjectType: 4
+      Path: Default Work Unit\Ambient
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Character
+      guid: 0f05b53ed9308a4a90a9980ff5fd8f21
+      id: 436743010
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Character
+        ObjectType: 4
+      Path: Default Work Unit\Character
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: footsteps
+      guid: 61581692fef1b74c9197bee3b6224690
+      id: 2385628198
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Character
+        ObjectType: 4
+      - ElementName: footsteps
+        ObjectType: 3
+      Path: Default Work Unit\Character\footsteps
+      maxAttenuation: 0
+      maxDuration: 3.625213
+      minDuration: 2.731789
+    - name: jump
+      guid: 8932f9c09d0ca141aee49632a255d002
+      id: 3833651337
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Character
+        ObjectType: 4
+      - ElementName: jump
+        ObjectType: 3
+      Path: Default Work Unit\Character\jump
+      maxAttenuation: 0
+      maxDuration: 0.690696
+      minDuration: 0.433357
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: d2667e7bc0deb74a8e276cfd292d6a1a
+    GuidInternal: 
+    m_lastTime: -8585903435853889412
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 63551881eb608b489f9a7ba6c72e3860
+    GuidInternal: 
+    m_lastTime: -8585903435852694009
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: ae3d4de96df6fb4fbc74c14076e0417d
+    GuidInternal: 
+    m_lastTime: -8585903435854043224
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 8831bf11aa4e38469a3e68212fba1c29
+    GuidInternal: 
+    m_lastTime: -8585903435852892406
+    List: []
+  ExpandedItems:
+  - /sound-designer-test-template-main_WwiseProject
+  - /sound-designer-test-template-main_WwiseProject/Events
+  - /sound-designer-test-template-main_WwiseProject/Events/Default Work Unit
+  - /sound-designer-test-template-main_WwiseProject/Events/Default Work Unit/Character
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

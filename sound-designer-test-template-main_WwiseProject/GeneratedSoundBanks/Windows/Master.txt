@@ -1,0 +1,56 @@
+Event	ID	Name			Wwise Object Path	Notes
+	657744959	lamp			\Default Work Unit\Random_SFX\lamp	
+	2043403999	rain			\Default Work Unit\Ambient\rain	
+	2092055118	garbage			\Default Work Unit\Random_SFX\garbage	
+	2199192632	amb_02			\Default Work Unit\Ambient\amb_02	
+	2199192635	amb_01			\Default Work Unit\Ambient\amb_01	
+	2199192638	amb_04			\Default Work Unit\Ambient\amb_04	
+	2385628198	footsteps			\Default Work Unit\Character\footsteps	
+	3375731105	talking			\Default Work Unit\Random_SFX\talking	
+	3833651337	jump			\Default Work Unit\Character\jump	
+	3991942870	music			\Default Work Unit\Random_SFX\music	
+	4135178015	lamp2			\Default Work Unit\Random_SFX\lamp2	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1631142046	RTPC_Occlusion_music			\Default Work Unit\RTPC_Occlusion_music	
+	1653615049	RTPC_Occlusion_amb4			\Default Work Unit\RTPC_Occlusion_amb4	
+	1653615052	RTPC_Occlusion_amb1			\Default Work Unit\RTPC_Occlusion_amb1	
+	1664992182	RTPC_Occlusion			\Default Work Unit\RTPC_Occlusion	
+	2469836583	RTPC_Occlusion_lamp2			\Default Work Unit\RTPC_Occlusion_lamp2	
+	3066961559	RTPC_Occlusion_rain			\Default Work Unit\RTPC_Occlusion_rain	
+	4030404528	RTPC_Occlusion2			\Default Work Unit\RTPC_Occlusion2	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	28102530	cloth_04	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\cloth\cloth_04		117668
+	62888885	cloth_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\cloth\cloth_03		148920
+	118715775	amb_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Ambient\amb_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambient\amb_01		2574556
+	118823475	cloth_05	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\cloth\cloth_05		113456
+	127267645	ftstp_tile_05	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_05		82624
+	143520436	elect_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\elect_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp\elect\elect_02		258540
+	205812953	ftstp_tile_04	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_04		89572
+	210222157	jump_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\jump_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\jmp\jump_02		26884
+	217085262	rain	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Ambient\rain_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambient\rain		5581920
+	232898209	garbage_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\garbage_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\garbage\garbage_02		953888
+	304735755	garbage_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\garbage_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\garbage\garbage_03		570504
+	309941175	cloth_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\cloth\cloth_01		85748
+	339070640	cloth_jmp_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_jmp_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\cloth_jmp\cloth_jmp_01		75100
+	346644846	amb_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Ambient\amb_02_0FF26878.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambient\amb_02		1507468
+	346901323	elect_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\elect_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp\elect\elect_03		308568
+	369400978	elect_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\elect_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp\elect\elect_01		663000
+	377448038	ftstp_tile_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_01		90140
+	398444723	cloth_jmp_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_jmp_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\cloth_jmp\cloth_jmp_03		103828
+	451124687	cloth_jmp_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_jmp_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\cloth_jmp\cloth_jmp_02		100516
+	560433556	music	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\music_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\music		12231948
+	565294285	ftstp_tile_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_03		88216
+	683829960	jump_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\jump_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\jmp\jump_01		42632
+	705538583	elect_05	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\elect_05_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp2\elect_05		2378716
+	710048876	cloth_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\cloth_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\cloth\cloth_02		71828
+	775570537	amb_04	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Ambient\amb_04_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambient\amb_04		2019332
+	822115337	people_talking	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\people_talking_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\people_talking		7961464
+	896976130	garbage_01	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\garbage_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\garbage\garbage_01		772968
+	937725726	jump_03	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\jump_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\jump\jmp\jump_03		42024
+	972316299	elect_04	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\elect_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp\elect\elect_04		603232
+	1016714071	ftstp_tile_06	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_06		98236
+	1060954615	ftstp_tile_02	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Character\ftstp_tile_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\character\footsteps\footsteps\ftstp_tile_02		93656
+	1062059018	lamp	D:\Unity\Unity projects\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\SFX\lamp_912362A5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random SFX\lamp\lamp		408412
+
